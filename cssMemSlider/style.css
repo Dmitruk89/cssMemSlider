@@ -60,9 +60,9 @@ body {
     width: 15px;
     padding: 5px;
     margin: 10px 5px;
-    border: solid 3px #fff;
+    border: solid 2px #fff;
     border-radius: 50%;
-    background-color: cadetblue;
+    background-color: rgb(44, 206, 44);
     opacity: 1;
     transition: .4s;
 }
